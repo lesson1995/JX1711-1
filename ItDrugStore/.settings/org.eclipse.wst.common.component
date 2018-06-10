@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="ItDrugStore">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/WebContent/WEB-INF/jsp/src"/>
+        <property name="context-root" value="ItDrugStore"/>
+        <property name="java-output-path" value="/ItDrugStore/build/classes"/>
+    </wb-module>
+</project-modules>

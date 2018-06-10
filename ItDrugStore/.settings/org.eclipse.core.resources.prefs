@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/jsp/apply.jsp=UTF-8
+encoding//WebContent/WEB-INF/jsp/apply_info.jsp=UTF-8
+encoding//WebContent/WEB-INF/jsp/drug_delivery.jsp=UTF-8
+encoding//WebContent/WEB-INF/jsp/drug_depot.jsp=UTF-8
+encoding//WebContent/WEB-INF/jsp/drug_loss.jsp=UTF-8
+encoding//WebContent/WEB-INF/jsp/drug_price_adjustment.jsp=UTF-8
+encoding//WebContent/WEB-INF/jsp/drug_set/drug_inc.jsp=UTF-8
+encoding//WebContent/WEB-INF/jsp/drug_suspension.jsp=UTF-8
+encoding//WebContent/WEB-INF/jsp/drug_withdrawal.jsp=UTF-8
+encoding//WebContent/WEB-INF/jsp/insert.jsp=UTF-8
+encoding//WebContent/WEB-INF/jsp/sale_info.jsp=UTF-8
